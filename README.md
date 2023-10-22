@@ -4,17 +4,11 @@ A custom video player that allows user to control various aspects of video playb
 
 ![Custom Video Player Preview](https://github.com/somayehva/Custom-Video-Player/blob/main/Custom%20Video%20Player.png)
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/video-player/).
+
 
 ## Technologies Used
 
@@ -32,4 +26,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
